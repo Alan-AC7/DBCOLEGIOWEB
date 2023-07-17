@@ -1,0 +1,36 @@
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.pdb

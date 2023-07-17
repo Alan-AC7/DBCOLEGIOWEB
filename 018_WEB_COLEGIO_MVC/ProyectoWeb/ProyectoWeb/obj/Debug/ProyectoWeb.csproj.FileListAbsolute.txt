@@ -1,0 +1,348 @@
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe.config
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.rsp
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe.config
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.rsp
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.AppContext.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Console.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Compression.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Claims.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.ValueTuple.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe.config
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.rsp
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\WebGrease.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.pdb
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Helpers.resources.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Mvc.resources.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Optimization.resources.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Razor.resources.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.resources.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\CapaModelo.pdb
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.rsp
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.rsp
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\CapaDatos.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\CapaModelo.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\WebGrease.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\CapaDatos.pdb
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\CapaModelo.pdb
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.xml
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.xml
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.xml
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.xml
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.xml
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.xml
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.AssemblyReference.cache
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CopyComplete
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\joelf\Downloads\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.rsp
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.rsp
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\CapaDatos.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\CapaModelo.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\WebGrease.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\CapaDatos.pdb
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\CapaModelo.pdb
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.xml
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.xml
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.xml
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.xml
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.xml
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.xml
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CopyComplete
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\rodri\Desktop\COLEGIO-main\COLEGIO-main\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.rsp
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.rsp
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\CapaDatos.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\CapaModelo.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\WebGrease.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\CapaDatos.pdb
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\CapaModelo.pdb
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.xml
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.xml
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.xml
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.xml
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.xml
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.xml
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.AssemblyReference.cache
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CopyComplete
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\WILL2\Desktop\pro\018_WEB_COLEGIO_MVC\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
